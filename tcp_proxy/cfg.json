@@ -1,0 +1,8 @@
+{
+    "Laddress": ":3888",
+    "MaxLen": 512,
+    "PackFrequncy": 60,
+    "heartbeat_url":"http://121.46.18.122:2017/game",
+    "heartbeat":"game_heartbeat_hi"
+
+}

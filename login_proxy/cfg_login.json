@@ -1,0 +1,8 @@
+{
+    "local_host": ":1888",
+    "max_length":300,
+    "frequncy":180,
+    "url_map":{"/guest":"/guest", "/register":"/register", "/login":"/login", "/wx_login":"/wx_login", "/wx_tmp_login":"/wx_tmp_login"},
+    "heartbeat_url":"http://121.46.18.122:2017/login",
+    "heartbeat":"login_heartbeat_hi"
+}

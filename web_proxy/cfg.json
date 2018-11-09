@@ -1,0 +1,18 @@
+{
+    "local_host": ":2888",
+	"remote_host": "www.59iwan.cn:80",
+    "max_length":300,
+    "frequncy":180,
+    "url_map":{
+        "/login_lobby":"/login_lobby",
+        "/create_room":"/create_room",
+        "/join_room":"/join_room",
+        "/create_ipay":"/create_ipay",
+        "/get_ipay_result":"/get_ipay_result",
+        "/lottery_draw":"/lottery_draw",
+        "/fill_proxy":"/fill_proxy",
+	    "/update_userinfo":"/update_userinfo",
+        "/send_card":"/send_card"},
+    "heartbeat_url":"http://121.46.18.122:2017/lobby",
+    "heartbeat":"lobby_heartbeat_hi"
+}
