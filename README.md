@@ -1,12 +1,9 @@
 # mj_server
-房卡类麻将服务器
-
-客户端
-https://github.com/yuanfengyun/mj_client
+房卡类棋牌服务器
 
 1、下载源码
 
-  git clone https://github.com/yuanfengyun/mj_server.git
+  git clone https://github.com/yuanfengyun/x_server.git
 
 2、初始化submodule
 
